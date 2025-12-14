@@ -1,15 +1,11 @@
 <template>
   <div class="text-center">
-    <!-- <img 
+    <img 
       src="/src/assets/logo.png"
       alt="Dashboard"
       class="dashboard-img"
     />
-    <h2 class="mt-3">Bienvenido a SanjoPay</h2> -->
-
-    <div class="bg-red-500 text-white p-4 text-center">
-  Tailwind está funcionando ✔
-</div>
+    <h2 class="mt-3">Bienvenido a SanjoPay</h2>
 
   </div>
 </template>

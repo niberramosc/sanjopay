@@ -20,7 +20,7 @@
         <div class="container-fluid">
           <span class="navbar-brand">Panel de Control</span>
           <div>
-            <span class="me-3">👤 Usuario Logueado</span>
+            <span class="me-3">👤 ADMIN</span>
             <button class="btn btn-outline-danger btn-sm" @click="logout">
               Cerrar sesión
             </button>
