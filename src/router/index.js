@@ -9,6 +9,10 @@ import DashboardHomeView from '../views/DashboardHomeView.vue'
 
 const routes = [
   {
+    path: '/',
+    redirect: '/login'
+  },
+  {
     path: '/login',
     name: 'Login',
     component: Login
